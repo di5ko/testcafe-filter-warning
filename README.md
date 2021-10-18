@@ -3,8 +3,8 @@
 To reproduce:
 
 1. Clone this repostitory
-2. npm i
-3. Run `npx testcafe chromium:headless filterissue.test.js --fixture-meta issue=true`
+2. Install Testcafe: `npm i`
+3. Start test: `npx testcafe chromium:headless filterissue.test.js --fixture-meta issue=true`
 
 ## Output
 
