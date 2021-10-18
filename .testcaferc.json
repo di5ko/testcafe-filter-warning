@@ -1,0 +1,8 @@
+{
+  "selectorTimeout": 15000,
+  "assertionTimeout": 15000,
+  "pageLoadTimeout": 15000,
+  "stopOnFirstFail": true,
+  "skipUncaughtErrors": true,
+  "disablePageCaching": true
+}
