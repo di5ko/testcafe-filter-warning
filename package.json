@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-filter-warning",
+  "version": "1.0.0",
+  "description": "Testcafe Filter Warning Issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "di5ko",
+  "license": "MIT",
+  "dependencies": {
+    "testcafe": "^1.16.1"
+  }
+}
